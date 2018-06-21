@@ -1,0 +1,12 @@
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\Exercise12\LetsMakeADeal\LetsMakeADeal\bin\Debug\LetsMakeADeal.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\Exercise12\LetsMakeADeal\LetsMakeADeal\bin\Debug\LetsMakeADeal.exe
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\Exercise12\LetsMakeADeal\LetsMakeADeal\bin\Debug\LetsMakeADeal.pdb
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\Exercise12\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\Exercise12\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.Form1.resources
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\Exercise12\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\Exercise12\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\Exercise12\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\Exercise12\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.exe
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\Exercise12\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.pdb
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\Exercise12\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.BigScreenTv.resources
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\Exercise12\LetsMakeADeal\LetsMakeADeal\obj\Debug\LetsMakeADeal.LiveGoat.resources

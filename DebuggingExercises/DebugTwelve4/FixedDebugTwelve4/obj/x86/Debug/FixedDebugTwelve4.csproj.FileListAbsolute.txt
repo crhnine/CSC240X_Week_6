@@ -1,0 +1,20 @@
+C:\C#\Chapter.12\FixedDebugTwelve4\FixedDebugTwelve4\bin\Debug\FixedDebugTwelve4.exe
+C:\C#\Chapter.12\FixedDebugTwelve4\FixedDebugTwelve4\bin\Debug\FixedDebugTwelve4.pdb
+C:\C#\Chapter.12\FixedDebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\Chapter.12\FixedDebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\FixedDebugTwelve4.Form1.resources
+C:\C#\Chapter.12\FixedDebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\FixedDebugTwelve4.Properties.Resources.resources
+C:\C#\Chapter.12\FixedDebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\C#\Chapter.12\FixedDebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\C#\Chapter.12\FixedDebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\FixedDebugTwelve4.exe
+C:\C#\Chapter.12\FixedDebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\FixedDebugTwelve4.pdb
+C:\CSharp4\Chapter12\StudentFiles\DebuggingExercises\DebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\FixedDebugTwelve4.exe
+C:\CSharp4\Chapter12\StudentFiles\DebuggingExercises\DebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\FixedDebugTwelve4.pdb
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\DebuggingExercises\DebugTwelve4\FixedDebugTwelve4\bin\Debug\FixedDebugTwelve4.exe
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\DebuggingExercises\DebugTwelve4\FixedDebugTwelve4\bin\Debug\FixedDebugTwelve4.pdb
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\DebuggingExercises\DebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\FixedDebugTwelve4.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\DebuggingExercises\DebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\FixedDebugTwelve4.Form1.resources
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\DebuggingExercises\DebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\FixedDebugTwelve4.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\DebuggingExercises\DebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\FixedDebugTwelve4.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\DebuggingExercises\DebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\FixedDebugTwelve4.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\DebuggingExercises\DebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\FixedDebugTwelve4.exe
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\DebuggingExercises\DebugTwelve4\FixedDebugTwelve4\obj\x86\Debug\FixedDebugTwelve4.pdb

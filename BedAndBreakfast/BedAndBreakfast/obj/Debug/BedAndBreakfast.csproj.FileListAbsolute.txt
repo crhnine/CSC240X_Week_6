@@ -1,0 +1,13 @@
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\BedAndBreakfast\BedAndBreakfast\bin\Debug\BedAndBreakfast.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\BedAndBreakfast\BedAndBreakfast\bin\Debug\BedAndBreakfast.exe
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\BedAndBreakfast\BedAndBreakfast\bin\Debug\BedAndBreakfast.pdb
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\BedAndBreakfast\BedAndBreakfast\obj\Debug\BedAndBreakfast.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\BedAndBreakfast\BedAndBreakfast\obj\Debug\BedAndBreakfast.BaileysForm.resources
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\BedAndBreakfast\BedAndBreakfast\obj\Debug\BedAndBreakfast.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\BedAndBreakfast\BedAndBreakfast\obj\Debug\BedAndBreakfast.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\BedAndBreakfast\BedAndBreakfast\obj\Debug\BedAndBreakfast.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\BedAndBreakfast\BedAndBreakfast\obj\Debug\BedAndBreakfast.exe
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\BedAndBreakfast\BedAndBreakfast\obj\Debug\BedAndBreakfast.pdb
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\BedAndBreakfast\BedAndBreakfast\obj\Debug\BedAndBreakfast.BelleAireForm.resources
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\BedAndBreakfast\BedAndBreakfast\obj\Debug\BedAndBreakfast.LincolnForm.resources
+C:\Users\chris\OneDrive\Desktop\Week 6 Assignments\BedAndBreakfast\BedAndBreakfast\obj\Debug\BedAndBreakfast.BreakfastOptionForm.resources
